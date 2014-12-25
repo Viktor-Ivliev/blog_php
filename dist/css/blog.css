@@ -1,0 +1,146 @@
+ body {
+	
+	overflow-x:  hidden;
+	background: #161D00;
+}
+/*шапка header*/
+.blue_background_and_height_90{
+	background: linear-gradient(to top, #000000, #093612);
+}
+
+.nav .logo{
+	padding: 0px;
+}
+
+.nav  .green_links, .nav .green_links_active, .navbar-header  .green_links, .navbar-header  .green_links_active{
+
+	height: 55px;/*
+	color: #0eba0e !important;*/
+	font-size: 18px !important;
+	font-family: 'Segoe Script' !important;
+	font-weight: 900 !important;
+}
+
+.tema{
+	color: #243ba3;
+}
+
+.bold_hover:hover .tema{
+	font-weight: 900;
+}
+.add_margin_top_buttom{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.min_siz{
+	font-size: 10px;
+}
+.author{
+	color: #3edf32;
+	margin-left: 5px;
+	font-family: 'Segoe Script';
+}
+.author-comment{
+	/*color: #b3ff92;*/
+	font-weight: 900;
+	font-family: 'Segoe Script';
+	font-size: 16px;
+}
+.author-begraund{
+	background: linear-gradient(to left, #4cef4c, #7b8aca);
+}
+.content_frame{
+	padding-left: 40px;
+	margin-top: 55px;
+	padding-top:10px;
+	padding-right:13px;
+	padding-bottom:10px;
+}
+
+.messege
+{
+	margin-top: 60px;
+	margin-bottom: -55px;
+}
+
+.comment_form_begraund{
+	background: linear-gradient(to top, #000000, #2E3135);/*background: linear-gradient(to top, #1a64df, #467fde);*/
+	
+}
+.notice{
+	color: #0a2085;
+	font-size: 20px;
+	font-family: 'Segoe Script';
+	text-align: right;
+
+}
+.inline{
+	display: inline;
+} 
+
+.right_border{
+	background: url('../../img/121.PNG') repeat-y;
+} 
+/*контент конец*/
+
+/*форма добовления статей*/
+.form_size{
+	margin-left: 9.5555%;
+	padding-right:40px;
+	Color: #66f94e;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.border_grin,.border_grin:focus{
+	border-color: #48e633;
+}
+.border_grin:focus{
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.1), 0px 0px 9px rgba(72, 250, 51, 1.7);
+   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.1), 0px 0px 25px rgba(72, 250, 51, 1.7);
+}
+
+.border_red,.border_red:focus{
+	border-color: #ff0000;
+}
+.border_red:focus{
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.1), 0px 0px 9px rgba(255, 0, 0, 1.7);
+   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.1), 0px 0px 25px rgba(255, 0, 0, 1.7);
+}
+
+.error_yellow{
+	color:#f0f000 !important; 
+	
+}
+
+.margin_left{
+	margin-left: 8.11%;
+	padding-right: 10px;
+}
+.Blue_form{
+	background: linear-gradient(to top, #000000, #000000);
+}
+.margin_sabmit{
+	margin-top: 27px;
+}
+.margin_textarea{
+	margin-left: 18px;
+}
+.eror_input{
+	margin-top: 55px;
+}
+
+.display_none{
+	display: none;
+}
+
+.update_form{
+	margin-top: 55px;
+}
+
+.update_title{
+	color: #fff;
+}
+.without_margin_top_bottom{
+	margin: 0px;
+}
